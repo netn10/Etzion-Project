@@ -1,0 +1,14 @@
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.1\WebApplication4.deps.json
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.1\WebApplication4.runtimeconfig.json
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.1\WebApplication4.runtimeconfig.dev.json
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.1\WebApplication4.dll
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.1\WebApplication4.pdb
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.csprojAssemblyReference.cache
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.RazorAssemblyInfo.cache
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.RazorAssemblyInfo.cs
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.AssemblyInfoInputs.cache
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.AssemblyInfo.cs
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.RazorTargetAssemblyInfo.cache
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.dll
+c:\users\hackeru\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.pdb

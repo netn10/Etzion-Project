@@ -1,0 +1,14 @@
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\bin\Debug\netcoreapp2.1\EtzionProject.deps.json
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\bin\Debug\netcoreapp2.1\EtzionProject.runtimeconfig.json
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\bin\Debug\netcoreapp2.1\EtzionProject.runtimeconfig.dev.json
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\bin\Debug\netcoreapp2.1\EtzionProject.dll
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\bin\Debug\netcoreapp2.1\EtzionProject.pdb
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\obj\Debug\netcoreapp2.1\EtzionProject.csprojAssemblyReference.cache
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\obj\Debug\netcoreapp2.1\EtzionProject.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\obj\Debug\netcoreapp2.1\EtzionProject.RazorAssemblyInfo.cache
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\obj\Debug\netcoreapp2.1\EtzionProject.RazorAssemblyInfo.cs
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\obj\Debug\netcoreapp2.1\EtzionProject.AssemblyInfoInputs.cache
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\obj\Debug\netcoreapp2.1\EtzionProject.AssemblyInfo.cs
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\obj\Debug\netcoreapp2.1\EtzionProject.RazorTargetAssemblyInfo.cache
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\obj\Debug\netcoreapp2.1\EtzionProject.dll
+C:\Users\HackerU\Desktop\Etzion Project\WebApplication4\obj\Debug\netcoreapp2.1\EtzionProject.pdb
